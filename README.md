@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PinetheApple
 - I’m interested in Java and Python programming.
-- I’m currently pursuing a degree in computer science and learning random stuff online like discord bot development and html.
-- I’m looking to collaborate on web dev, android application dev and pretty much anything coding related lol.
+- I’m currently pursuing a degree in computer science and learning web development and cloud computing.
+- I’m looking to collaborate on pretty much anything coding related lol.
 - How to reach me- discord (フィレット (Pine)#8464) is probably the best way
 
 <!---
