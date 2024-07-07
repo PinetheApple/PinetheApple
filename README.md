@@ -1,4 +1,4 @@
-- Learning security and Rust
+- Learning security and Win32 C++ API
 
 <!---
 PinetheApple/PinetheApple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
