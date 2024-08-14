@@ -1,4 +1,4 @@
-- Learning security and Win32 C++ API
+- Learning ethical hacking and Splunk
 
 <!---
 PinetheApple/PinetheApple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
