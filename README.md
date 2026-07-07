@@ -1,4 +1,4 @@
-- Learning ethical hacking and Splunk
+coding?
 
 <!---
 PinetheApple/PinetheApple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
